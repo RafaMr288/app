@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { initializeApp } from "firebase/app"
+import firebase from 'firebase';
 
 function App() {
   return (
