@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import "@firebase"
+import "./node_modules/@firebase"
 
 function App() {
   return (
